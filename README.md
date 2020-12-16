@@ -15,3 +15,5 @@ Y los que seguirán son:<br>
 3. Entrega 3: Código para acceder a los documentos con Drive API y Docs API
 4. Entrega 4: Código para crear un documento con Docs API
 
+
+### [Versión en inglés / English Version](https://docs.google.com/document/d/e/2PACX-1vTXJMoQ8m1KGAVOvXCkvyjp1Qewg_e-YZo69XF-2d7AbraGN0I-c5ngsOo2XJnAE8vlC4JmWdQ2bH8I/pub)
