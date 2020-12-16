@@ -10,7 +10,8 @@ Por ahora están publicadas las dos primeras entregas (aparte de la "portada" de
 1. Entrega 1: [Crear Proyecto en Google Cloud](http://www.elguillemola.com/2020/12/tutorial-google-apis-crear-proyecto-en-google-cloud/)
 2. Entrega 2: [Código para acceder a los contactos con People API (con VB y C#)](http://www.elguillemola.com/2020/12/tutorial-google-apis-codigo-para-acceder-a-los-contactos-con-people-api/)
 
-Y los que seguirán son:
+Y los que seguirán son:<br>
+
 3. Entrega 3: Código para acceder a los documentos con Drive API y Docs API
 4. Entrega 4: Código para crear un documento con Docs API
 
