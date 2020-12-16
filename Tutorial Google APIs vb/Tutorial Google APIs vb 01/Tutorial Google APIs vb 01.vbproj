@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Tutorial_Google_APIs_vb_01</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Guillermo Som</Authors>
+    <Company>elGuille</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>Ejemplos para acceder a las Google APIs usando Visual Basic con .NET 5.0</Description>
+    <Copyright>(c) Guillermo Som (elGuille)</Copyright>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis" Version="1.49.0" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.49.0" />
+    <PackageReference Include="Google.Apis.Core" Version="1.49.0" />
+    <PackageReference Include="Google.Apis.Docs.v1" Version="1.49.0.2170" />
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.49.0.2166" />
+    <PackageReference Include="Google.Apis.People.v1" Version="1.25.0.830" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>

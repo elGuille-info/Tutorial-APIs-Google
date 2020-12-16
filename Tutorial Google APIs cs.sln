@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial Google APIs cs 01", "Tutorial Google APIs cs\Tutorial Google APIs cs 01\Tutorial Google APIs cs 01.csproj", "{E90BF695-9FF3-4217-A811-1E28AB29583B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tutorial Google APIs vb 01", "Tutorial Google APIs vb\Tutorial Google APIs vb 01\Tutorial Google APIs vb 01.vbproj", "{CB2CAE33-C9C5-4CF0-A17D-DF33F5A4C40A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90BF695-9FF3-4217-A811-1E28AB29583B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90BF695-9FF3-4217-A811-1E28AB29583B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90BF695-9FF3-4217-A811-1E28AB29583B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90BF695-9FF3-4217-A811-1E28AB29583B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB2CAE33-C9C5-4CF0-A17D-DF33F5A4C40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2CAE33-C9C5-4CF0-A17D-DF33F5A4C40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2CAE33-C9C5-4CF0-A17D-DF33F5A4C40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2CAE33-C9C5-4CF0-A17D-DF33F5A4C40A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04DFA855-53B7-4982-8127-3186A3B874C0}
+	EndGlobalSection
+EndGlobal
