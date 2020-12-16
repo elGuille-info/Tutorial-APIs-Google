@@ -18,4 +18,4 @@ Y los que seguirán son:<br>
 
 ### Versión en inglés / English Version
 
-[Tutorial Google APIs - Code to access contacts with People API](https://docs.google.com/document/d/e/2PACX-1vTXJMoQ8m1KGAVOvXCkvyjp1Qewg_e-YZo69XF-2d7AbraGN0I-c5ngsOo2XJnAE8vlC4JmWdQ2bH8I/pub)
+2. [Tutorial Google APIs - Code to access contacts with People API](https://docs.google.com/document/d/e/2PACX-1vTXJMoQ8m1KGAVOvXCkvyjp1Qewg_e-YZo69XF-2d7AbraGN0I-c5ngsOo2XJnAE8vlC4JmWdQ2bH8I/pub)
